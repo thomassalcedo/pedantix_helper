@@ -8,7 +8,9 @@ wordArray = [
     "je", "tu", "il", "elle", "nous", "vous", "ils", "elles",
     "lequel", "lesquels", "auquel", "auquels",
     "durant", "pendant", "avant", "après",
-    "comment", "quand"
+    "comment", "quand",
+    "0", "1", "2", "3", "4", "5", "6", "7", "8", "9",
+    "i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x", "xi", "xii", "xiii", "xiv", "xv", "xvi", "xvii", "xviii", "xix", "xx", "xxi"
 ];
 
 function sleep(ms){
