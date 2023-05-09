@@ -2,7 +2,7 @@ wordArray = [
     "à", "dans", "par", "pour", "en", "ver", "vert", "verre", "avec", "deux", "sans", "cent", "sang", "sous", "sur", "sûr", "lui",
     "mais", "ou", "où", "et", "donc", "or", "hors", "ni", "car",
     "qui", "que", "quoi", "donc",
-    "mon", "ton", "son", "ma", "ta", "sa", "mes", "tes", "ses"
+    "mon", "ton", "son", "ma", "ta", "sa", "mes", "tes", "ses",
     "un", "une", "de", "des", "du", "au", "aux", "le" , "la", "les", "se",
     "e", "r", "t", "y", "p", "q", "qu", "d", "j", "l", "m", "c", "n", "s",
     "je", "tu", "il", "elle", "on", "nous", "vous", "ils", "elles",
