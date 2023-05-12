@@ -32,7 +32,7 @@ async function loopFromArray(){
         console.log(i + ": " + wordArray[i]);
         setWord(wordArray[i]);
         clickButton();
-        await sleep(100);
+        await sleep(120);
     }
 }
 
